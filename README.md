@@ -1,4 +1,4 @@
-Online demo : https://Oussidi1998.github.com/weather_app.
+Online demo : https://Oussidi1998.github.io/weather_app.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
