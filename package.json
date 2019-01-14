@@ -2,7 +2,7 @@
   "name": "weather_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oussidi1998.github.com/WeatherApp_React",
+  "homepage": "https://Oussidi1998.github.com/weather_app",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
